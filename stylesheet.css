@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    background-image:url('background.jpg');
+    color:aliceblue;
+
+}
+
+h1{
+    color:goldenrod
+}
+
+#message-el{
+    font-style: italic; 
+
+}
+
+#startButton , #newCard{
+    background-color: goldenrod;
+    width:150px;
+    color:#016f32;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border:none;
+    border-radius: 10px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    
+}
+
+#newCard{
+    align-self: baseline;
+}
